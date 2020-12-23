@@ -1,4 +1,7 @@
 # V0-Speed-Benchy
+
+https://www.youtube.com/watch?v=0DG0rrMatfI
+
 Printer Profile and Gcode for my Speed Benchy Video
 
 REQUIREMENTS FOR YOUR V0 TO RUN THIS GCODE
