@@ -16,4 +16,4 @@ REQUIREMENTS FOR YOUR V0 TO RUN THIS GCODE
 
 Enjoy!
 
-Note, you are accepting all responsibility if anything brakes on your printer by using this gcode. This gcode is for ADVANCED USERS ONLY. This gcode CAN AND WILL break things if you are not careful.
+Note, you are accepting all responsibility if anything breaks on your printer by using this gcode. This gcode is for ADVANCED USERS ONLY. This gcode CAN AND WILL break things if you are not careful.
